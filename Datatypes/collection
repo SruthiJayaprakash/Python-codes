@@ -32,6 +32,7 @@ Tuple items are ordered, unchangeable, and allow duplicate values.
 Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.
 Tuple items are indexed, the first item has index [0], the second item has index [1] etc
 '''
+
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
 print(len(thistuple))
